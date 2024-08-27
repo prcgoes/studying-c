@@ -9,6 +9,7 @@ int main()
     m=(n1+n2)/2;
     printf("Media = %.2f\n" ,m);
 
+    //aula com titio Góes
 
     return (0);
 }
